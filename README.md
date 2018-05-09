@@ -20,3 +20,4 @@ Q1, Q2, Q3, Q4  BS170 Transistor
 R1 - R5         10k Resistor 1/4W, 5%, 0207
 RN1             Resistor Array SIP5, 10k
 SW1 - SW5       SPST Angled PTS645Vx83
+ 

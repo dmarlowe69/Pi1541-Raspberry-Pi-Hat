@@ -12,12 +12,14 @@ My project here is an essay for the Raspberry PI to provide the necessary interf
 
 I put the necessary Gerber files to create a board here. The parts list (BOM)looks like this:
 
-|D|LED 3mm|
-|J1|PinSocket RM2,54, 2x20pins, Isolation Height: 11.05mm|
-|J2, J3|DIN 6pins Socket Lumberg 010599|
-|Piezo1|Piezo TDK PS1240P02BT|
-|Q1 - Q4|BS170 Transistor|
-|R1 - R5|10k Resistor 1/4W, 5%, 0207|
-|RN1|Resistor Array SIP5, 10k|
-|SW1 - SW5|SPST Angled PTS645Vx83|
+|Name|Component|Package|Value|
+--- |--- | --- | ---
+|D|LED red|3mm|-|
+|J1|PinSocket Isolation Height: 11.05mm|2,54mm|2x20pins|
+|J2, J3|DIN 6pins Socket Lumberg 010599|-|-|
+|Piezo1|Piezo TDK PS1240P02BT|-|-|
+|Q1 - Q4|BS170 Transistor|TO92|-|
+|R1 - R5|Resistor 1/4W, 5%|0207|10k|
+|RN1|Resistor Array|SIP5|10k|
+|SW1 - SW5|SPST Angled PTS645Vx83|-|-|
  

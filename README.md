@@ -10,6 +10,11 @@ My project here is an essay for the Raspberry PI to provide the necessary interf
 # The whole thing is still in beta status and a replica is at your own risk!
 
 
+This is the back of the board:
+
+![Alt text](back.png "3D Model from KiCad")
+
+
 I put the necessary Gerber files to create a board here. The parts list (BOM)looks like this:
 
 |Name|Component|Package|Value|

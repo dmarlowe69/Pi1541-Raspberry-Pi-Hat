@@ -13,7 +13,7 @@ Among other things, a corresponding voltage translator is now used, which also p
 
 ![Alt text](image.png "3D Model from KiCad")
  
-Steve White has presented a wonderful project on his website (https://cbm-pi1541.firebaseapp.com/), which reproduces a Commodore Floppy 1541 cycle exactly. 
+Steve White has presented a project on his website (https://cbm-pi1541.firebaseapp.com/), which reproduces a Commodore Floppy 1541 cycle exactly. 
 
 My project here is an essay for the Raspberry PI to provide the necessary interfaces and controls.
 

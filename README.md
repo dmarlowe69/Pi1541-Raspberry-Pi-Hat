@@ -4,10 +4,10 @@ Raspberry Pi Hat for the Commodore 1541 disk drive emulator from Steve White (ht
 
 
 # Attention: Preparation for new release!
-#
-# Unfortunately, the GPIOs of the Raspberry PI are very sensitive. And the load-bearing capacity is also very low. If you have a large number of devices on the IEC bus, the Raspberry may be damaged. That is why I am in the process of making various changes.
-#
-# Among other things, a corresponding voltage translator is now used, which also protects against ESD influences and prevents excessive current consumption.
+
+Unfortunately, the GPIOs of the Raspberry PI are very sensitive. And the load-bearing capacity is also very low. If you have a large number of devices on the IEC bus, the Raspberry may be damaged. That is why I am in the process of making various changes.
+
+Among other things, a corresponding voltage translator is now used, which also protects against ESD influences and prevents excessive current consumption.
 
 
 

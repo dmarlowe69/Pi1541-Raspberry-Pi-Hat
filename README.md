@@ -1,14 +1,21 @@
 # Pi1541-Raspberry-Pi-Hat
 Raspberry Pi Hat for the Commodore 1541 disk drive emulator from Steve White (https://cbm-pi1541.firebaseapp.com)
 
+
+
+# Attention: Preparation for new release!
+#
+# Unfortunately, the GPIOs of the Raspberry PI are very sensitive. And the load-bearing capacity is also very low. If you have a large number of devices on the IEC bus, the Raspberry may be damaged. That is why I am in the process of making various changes.
+#
+# Among other things, a corresponding voltage translator is now used, which also protects against ESD influences and prevents excessive current consumption.
+
+
+
 ![Alt text](image.png "3D Model from KiCad")
  
 Steve White has presented a wonderful project on his website (https://cbm-pi1541.firebaseapp.com/), which reproduces a Commodore Floppy 1541 cycle exactly. 
 
 My project here is an essay for the Raspberry PI to provide the necessary interfaces and controls.
-
-# The whole thing is still in beta status and a replica is at your own risk!
-
 
 This is the back of the board:
 

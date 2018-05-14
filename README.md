@@ -5,6 +5,10 @@ Raspberry Pi Hat for the Commodore 1541 disk drive emulator from Steve White (ht
 
 # Attention: Preparation for new release!
 
+# Update 14.05.2018: Unfortunately the developer has completely changed the GPIO pins. Information or beta software for testing is unfortunately only available to a limited group of users, so I currently have to stop the project. 
+
+# The current version will most likely no longer work with the current board. Therefore I would refrain from creating another board with the old Gerber files.
+
 Unfortunately, the GPIOs of the Raspberry PI are very sensitive. And the load-bearing capacity is also very low. If you have a large number of devices on the IEC bus, the Raspberry may be damaged. That is why I am in the process of making various changes.
 
 Among other things, a corresponding voltage translator is now used, which also protects against ESD influences and prevents excessive current consumption.

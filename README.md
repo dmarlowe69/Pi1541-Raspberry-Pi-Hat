@@ -23,13 +23,14 @@ I put the necessary Gerber files to create a board here. The parts list (BOM)loo
 
 |Name|Component|Package|Value|
 --- |--- | --- | ---
-|D|LED red|3mm|-|
-|J1|PinSocket Isolation Height: 11.05mm|2,54mm|2x20pins|
-|J2, J3|DIN 6pins Socket Lumberg 010599|-|-|
+|J1|PinSocket ESQ-120-34-G-D|2,54mm|2x20pins|
+|J2, J3|DIN Socket Lumberg 010599|-|6pins|
 |Piezo1|Piezo TDK PS1240P02BT|-|-|
-|Q1 - Q4|BS170 Transistor|TO92|-|
-|R1 - R5|Resistor 1/4W, 5%|0207|10k|
-|RN1|Resistor Array|SIP5|10k|
+|U1|TI TXS0108E|TSSOP-20|-|
+|C1 - C2|Ceramic Capacitor|0805|0,1µF|
+|C3 - C8|Ceramic Capacitor|0805|10nF|
+|D1|LED|3mm|-|
+|R1|Resistor|0805|220|
 |SW1 - SW5|SPST Angled PTS645Vx83|-|-|
 |SW6|SPST Angled PTS645Vx39|-|-|
 
